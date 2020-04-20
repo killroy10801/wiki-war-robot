@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c729f4abea2c13044a4240f4b267599e, type: 3}
+  m_Name: Punisher
+  m_EditorClassIdentifier: 
+  ItemId: punisher
+  Hardpoint: Light
+  Name: Punisher
+  WeaponMode: accelerated
+  Range: 500
+  Rounds: 220
+  BurstRounds: 0
+  ChargeTime: 0
+  ReloadTime: 10
+  CycleTime: 25.6
+  BurstTime: 0
+  RofLow: 10
+  RofHigh: 15
+  Desc: Multi-barreled machine gun with a high rate of fire. Most effective at close
+    range and against enemies with physical shields
+  ItemSprite: {fileID: 21300000, guid: 11bd510491a9fc04ba3d5943bcdaa2fa, type: 3}
